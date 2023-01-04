@@ -1,0 +1,20 @@
+.box1{
+    color:rgb(3, 2, 3);
+    font-weight: bold;
+    font-size: 30px;
+}
+.box0{
+    color:rgb(56, 233, 209);
+}
+.box2{
+    color:rgb(76, 187, 76);
+}
+.box4{
+     color:black;
+     background-color:yellow;
+     border-radius:16px;
+}
+.box5{
+    background:orange;
+    border-radius:16px;
+}

@@ -1,0 +1,21 @@
+.box1{
+    width:100%;
+    min-height: 30px;
+    color:green;
+    background: red;
+    float:left;
+}
+.box2{
+    width:60%;
+    min-height:40px;
+    color:grey;
+    background:rgb(46, 174, 61);
+    float:right;
+}
+.box3{
+    width:20%;
+    min-height:40px;
+    color:pink;
+    background:yellow;
+    float:right;
+}

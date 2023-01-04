@@ -1,0 +1,24 @@
+.A{
+    width:2000px;
+    background-color: green;
+    height:100PX;
+    
+}
+@media screen and (max-width:1500px){
+    .A{
+        background-color: RED;
+       
+    }
+
+} 
+@media screen and (max-width:1000px) {
+    .A{
+        background:black;
+
+    }
+}
+    @media screen and (max-width:600px){
+        .A{
+        background:pink;
+        }
+    }
