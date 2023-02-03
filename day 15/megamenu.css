@@ -1,0 +1,12 @@
+.container{
+  height: 300px;
+  width: 100%;
+    color: white;
+}
+ul ul{
+    position: absolute;
+    left: 0;
+    background: red;
+    min-height: 100px;
+    display: none;
+}
